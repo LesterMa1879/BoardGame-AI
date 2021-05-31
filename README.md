@@ -1,1 +1,1 @@
-# A simple AI for boardgame Pentago.
+A simple AI for boardgame Pentago.
